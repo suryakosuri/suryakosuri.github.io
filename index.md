@@ -70,7 +70,7 @@ It gives best insights of the performance approaches for Web applications and Mo
 
   <h3> Organization: Bank of America (October 2016 to Till Date) </h3>
 
-  Role: Performance Analyst <br>
+  Role: Senior Performance Analyst <br>
 
 <br><li>	Project 1: AML(Anti Money Laundering),</li> 
 <br><li>	Project 2: Recon Plus,</li>
