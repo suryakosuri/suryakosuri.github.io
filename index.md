@@ -43,7 +43,7 @@
  <br>
 <li> Worked with Pramati Technologies from September 2015 to October 2016</li>
  <br>
-  <li>Working as Performance Analyst with Bank of America from October 2016 to till date</li>
+  <li>Currently working as Senior Performance Analyst with Bank of America from October 2016 to till date</li>
 
 <h3>Education</h3>
 <li>Master of Computer applications in JNTU Kakinada 2010 with Aggregate of 86% .</li>
