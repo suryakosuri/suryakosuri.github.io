@@ -6,9 +6,9 @@
 	<br><li>Mail: kosurisuryavarma@gmail.com</li>
 <br><li>Linked In:<a href="https://www.linkedin.com/in/suryanarayana-raju-kosuri-a1446494//">https:https://www.linkedin.com/in/suryanarayana-raju-kosuri-a1446494//</a></li>
 <h3>Objective</h3>
-<li>To be part of a Performance Quality Specialist Team delivering high quality performance testing and engineering services and adding value to the firm’s business by ensuring that applications released with optimized performance in most stringent conditions by following best practices.</li>
+<li>To be part of a Performance Quality Engineering Specialist Team delivering high quality performance testing and engineering services and adding value to the firm’s business by ensuring that applications released with optimized performance in most stringent conditions by following best practices.</li>
 <h3>Core PerformanceTechnology Skills</h3>
-	<li>PT and PE</li>
+	<li>Performance Testing & Performance Engineering</li>
 	<li>LoadRunner</li>
 	<li>JMeter</li>		
     <li>Java Melody</li> 
@@ -60,7 +60,7 @@ It gives best insights of the performance approaches for Web applications and Mo
 
   <h3> Global Certifications </h3>
 
-	<li>HP Load runner Certified</li>
+	<li>HP LoadRunner Certified</li>
 	<br><li>Scrum Master Certified</li>
 	<br><li>Appdyanmics Certified Performance Analyst</li>
 	<br><li>Dynatrace APM Certified Professional</li>
