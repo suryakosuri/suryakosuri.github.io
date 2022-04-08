@@ -1,6 +1,6 @@
 <div class="align-right">
     <h1>Performance Profile</h1>
-    <li>Name:Suryanarayana Raju Kosuri</li> 
+    <li>Full Name:Suryanarayana Raju Kosuri</li> 
 	<h3>Contact Details</h3>
     <li>Mobile:9618567999</li>
 	<br><li>Mail: kosurisuryavarma@gmail.com</li>
